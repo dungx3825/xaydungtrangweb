@@ -1,0 +1,8 @@
+.form-group {
+    width: 50%;
+    background-color: bisque;
+    border-radius: 5px ;
+    box-shadow: 5px 5px 10px gray;
+    margin: 0 auto ;
+    padding: 10px;
+}

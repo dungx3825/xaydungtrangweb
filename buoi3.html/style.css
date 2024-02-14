@@ -1,0 +1,31 @@
+.div1,
+.div2 {
+    width: 100px;
+    height: 100px;
+    /* padding:50px 30px 22px 15px; */
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 75px;
+    padding-bottom: 32px;
+    /* border: 5px solid pink; */
+    border-left:20px solid pink;
+    border-bottom: 30px solid green;
+    border-top: 15px solid purple;
+    border-right: 22px solid black;
+    margin: 20px 33px 100px 150px;
+    border-radius: 15%;
+    box-shadow: -10px 10px 20px red;
+}
+
+.div1{
+    background-color: blue;
+}
+.div2{
+    background-color: red;
+}
+ 
+body {
+    background-image: url("img3.jpg");
+    background-size: 35% 35%;
+    background-repeat: repeat;
+}

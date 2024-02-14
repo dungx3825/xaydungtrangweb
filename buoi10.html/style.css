@@ -1,0 +1,25 @@
+table {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.dsSV{ 
+    border-collapse: collapse;
+
+}
+
+
+.dsSV tr:nth-child(2n+1) {
+    background-color: red;
+}
+
+.dsSV tr:nth-child(2n) {
+    background-color: turquoise;
+}
+
+.dsSV thead tr:first-child{
+    color: blue;
+}
+
+.dsSV tbody tr:last-child{
+    color: green;
+}

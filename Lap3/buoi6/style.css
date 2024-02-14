@@ -1,0 +1,23 @@
+*{
+    padding: 0 ;
+    margin: 0;
+}
+.menu-ngang {
+    width: 100%;
+    height: 25px;
+    background-color: aqua;
+}
+.menu-ngang > ul {
+    display: flex;
+    line-height: 25px;
+    font-size: 20px;
+}
+.menu-ngang > ul > li {
+    float: left;
+    list-style-type: none;
+    margin: auto;
+}
+.menu-ngang > ul > li > a {
+    text-decoration: none;
+
+}

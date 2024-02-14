@@ -1,0 +1,29 @@
+p{
+    text-align: center;
+}
+p>img{                                                                                                 
+    width: 200px;
+    height: 200px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 5px 5px  powderblue;
+    
+}
+p>img:hover{
+    box-shadow: 5px 10px red; 
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+/*bxsha tạo bong cho hop
+brder-th lap duong vien tren 1phan tu -radius lam tron cac goc cua phan tu
